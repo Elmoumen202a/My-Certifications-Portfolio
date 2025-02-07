@@ -8,7 +8,8 @@ Welcome to my **Certifications Portfolio**! Here, you’ll find a collection of 
 
 ### 🎯 **Programming & IT**  
 ✔️ [**CS50P – Introduction to Programming with Python**](https://certificates.cs50.io/b1b40aca-5873-48f4-b612-21cd620c7ef1.pdf?size=letter) *(Harvard)*  
-✔️ [**CS50B – Computer Science for Business Professionals**](https://cs50.harvard.edu/certificates/6aeb94b2-0240-408d-87de-6fc6cb0f5fd3) *(Harvard)*  <br>
+✔️ [**CS50B – Computer Science for Business Professionals**](https://cs50.harvard.edu/certificates/6aeb94b2-0240-408d-87de-6fc6cb0f5fd3) *(Harvard)*  
+<br>
 ✔️ [**CS50T – Understanding Technology**](https://cs50.harvard.edu/certificates/c89db163-0672-4af1-b17e-6c3ea5cb34a2) *(Harvard)* 
 ✔️ [**HarvardX – Using Python for Research**](https://courses.edx.org/certificates/131ec972ddd94fb386bd099d387822d7?_gl=1*141hiaf*_gcl_au*NDY2MTM2NDIzLjE3Mzg4NTk2MTA.*_ga*MTAxNjA0OTE0Ni4xNzA3NTk5ODE2*_ga_D3KS4KMDT0*MTczODg1OTYwNi4zLjEuMTczODg2MDA3NC4yMi4wLjA.) *(Harvard - edx)*  
 ✔️ [**Spezialisierung Google UX Design**](https://www.coursera.org/account/accomplishments/specialization/BZK94C3REKAM) *(Google – Coursera)*  
