@@ -26,7 +26,8 @@ Welcome to my **Certifications Portfolio**! Here, you’ll find a collection of 
 ✔️ [**Programming for Everybody (Python)**](https://www.coursera.org/account/accomplishments/records/ZTW7RR53AHKQ) *(University of Michigan – Coursera)*  
 ✔️ [**Artificial Intelligence in Marketing**](https://www.coursera.org/account/accomplishments/records/WLMHDHMWFM4Y) *(University of Virginia – Coursera)*  
 ✔️ [**How to Write and Publish a Scientific Paper**](https://www.coursera.org/account/accomplishments/records/BZYCXN3R53EB) *(École Polytechnique – Coursera)*  
-✔️[**Spezialisierung Arizona State University TESOL**](https://www.coursera.org/account/accomplishments/specialization/MJRTEL6NXDRJ) *(Arizona State University – Coursera)* ✔️[**Photography Basics and Beyond: From Smartphone to DSLR Specialization**](https://www.coursera.org/account/accomplishments/specialization/VZGPTUMHH65P) *(Michigan State University – Coursera)*  
+✔️[**Spezialisierung Arizona State University TESOL**](https://www.coursera.org/account/accomplishments/specialization/MJRTEL6NXDRJ) *(Arizona State University – Coursera)<br>
+✔️[**Photography Basics and Beyond: From Smartphone to DSLR Specialization**](https://www.coursera.org/account/accomplishments/specialization/VZGPTUMHH65P) *(Michigan State University – Coursera)*  
 ⏳ [**CS50W - Web Development with Django & JavaScript**](https://cs50.harvard.edu/certificates/) *(Harvard)*  
 ⏳ [**CS50 AI - Introduction to Artificial Intelligence with Python**](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) *(Harvard)*  
 ⏳ [**CS50 SQL - Introduction to Databases with SQL**](https://pll.harvard.edu/course/cs50s-introduction-databases-sql) *(Harvard)*  
