@@ -12,6 +12,8 @@ Welcome to my **Certifications Portfolio**! Here, you’ll find a collection of 
 ✔️ [**CS50T – Understanding Technology**](https://cs50.harvard.edu/certificates/c89db163-0672-4af1-b17e-6c3ea5cb34a2) *(Harvard)* 
 ✔️ [**HarvardX – Using Python for Research**](https://courses.edx.org/certificates/131ec972ddd94fb386bd099d387822d7?_gl=1*141hiaf*_gcl_au*NDY2MTM2NDIzLjE3Mzg4NTk2MTA.*_ga*MTAxNjA0OTE0Ni4xNzA3NTk5ODE2*_ga_D3KS4KMDT0*MTczODg1OTYwNi4zLjEuMTczODg2MDA3NC4yMi4wLjA.) *(Harvard - edx)*  
 ✔️ [**Spezialisierung Google UX Design**](https://www.coursera.org/account/accomplishments/specialization/BZK94C3REKAM) *(Google – Coursera)*  
+✔️ [**Responsive Web Design**](https://www.freecodecamp.org/certification/josef202a/responsive-web-design) *(freeCodeCamp)*  
+✔️ [**Data Analysis with Python**](https://www.freecodecamp.org/certification/josef202a/data-analysis-with-python-v7) *(freeCodeCamp)*  
 ✔️ [**Foundations of Project Management**](https://www.coursera.org/account/accomplishments/records/THXWBVSHWBNY) *(Google – Coursera)*  
 ✔️ [**Introduction to Social Media Marketing**](https://www.coursera.org/account/accomplishments/records/XZRKP5SGBRRS) *(Meta – Coursera)*  
 ✔️ [**Professional Skills for International Business**](https://www.coursera.org/account/accomplishments/records/ZZN9M33T7XDU) *(University of London – Coursera)*  
