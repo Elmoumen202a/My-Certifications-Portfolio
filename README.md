@@ -15,9 +15,9 @@ Welcome to my **Certifications Portfolio**! Here, you’ll find a collection of 
 ✔️ [**Responsive Web Design**](https://www.freecodecamp.org/certification/josef202a/responsive-web-design) *(freeCodeCamp)*  
 ✔️ [**Data Analysis with Python**](https://www.freecodecamp.org/certification/josef202a/data-analysis-with-python-v7) *(freeCodeCamp)*  
 ✔️ [**The Fundamentals of Digital Marketing**](https://drive.google.com/file/d/1tTeduDdSt49qXajoqTU2lyYWoxuikQpj/view?usp=sharing) *(Google)*  <br>
-✔️ [**DIGITAL SKILLS: DIGITAL MARKETING**](https://drive.google.com/file/d/1_P2sCcPwpJNzW-wMdhOHuZdcurhRv1cD/view?usp=sharing) *(futurelearn)* 
+✔️ [**DIGITAL SKILLS: DIGITAL MARKETING**](https://drive.google.com/file/d/1_P2sCcPwpJNzW-wMdhOHuZdcurhRv1cD/view?usp=sharing) *(futurelearn)*  <br>
 ✔️ [**Shopping ads Certificats**](https://drive.google.com/file/d/1R8X5jpne74SXoLain9VRnrKUmMdHC5WZ/view?usp=sharing) *(Google)*  <br>
-✔️ [**Python for Data Science**](https://drive.google.com/file/d/1xx265jUnZrKMO-CS7bxK5NCo1JIkWlEd/view?usp=sharing) *(IBM)* <br>  
+✔️ [**Python for Data Science**](https://drive.google.com/file/d/1xx265jUnZrKMO-CS7bxK5NCo1JIkWlEd/view?usp=sharing) *(IBM)* 
 ✔️ [**Foundations of Project Management**](https://www.coursera.org/account/accomplishments/records/THXWBVSHWBNY) *(Google – Coursera)*  
 ✔️ [**Introduction to Social Media Marketing**](https://www.coursera.org/account/accomplishments/records/XZRKP5SGBRRS) *(Meta – Coursera)*  
 ✔️ [**Professional Skills for International Business**](https://www.coursera.org/account/accomplishments/records/ZZN9M33T7XDU) *(University of London – Coursera)*  
