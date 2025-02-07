@@ -14,6 +14,10 @@ Welcome to my **Certifications Portfolio**! Here, you’ll find a collection of 
 ✔️ [**Spezialisierung Google UX Design**](https://www.coursera.org/account/accomplishments/specialization/BZK94C3REKAM) *(Google – Coursera)*  
 ✔️ [**Responsive Web Design**](https://www.freecodecamp.org/certification/josef202a/responsive-web-design) *(freeCodeCamp)*  
 ✔️ [**Data Analysis with Python**](https://www.freecodecamp.org/certification/josef202a/data-analysis-with-python-v7) *(freeCodeCamp)*  
+✔️ [**The Fundamentals of Digital Marketing**](https://drive.google.com/file/d/1tTeduDdSt49qXajoqTU2lyYWoxuikQpj/view?usp=sharing) *(Google)* 
+✔️ [**DIGITAL SKILLS: DIGITAL MARKETING**](https://drive.google.com/file/d/1_P2sCcPwpJNzW-wMdhOHuZdcurhRv1cD/view?usp=sharing) *(futurelearn)* 
+✔️ [**Shopping ads Certificats**](https://drive.google.com/file/d/1R8X5jpne74SXoLain9VRnrKUmMdHC5WZ/view?usp=sharing) *(Google)* 
+✔️ [**Python for Data Science**](https://drive.google.com/file/d/1xx265jUnZrKMO-CS7bxK5NCo1JIkWlEd/view?usp=sharing) *(IBM)*  
 ✔️ [**Foundations of Project Management**](https://www.coursera.org/account/accomplishments/records/THXWBVSHWBNY) *(Google – Coursera)*  
 ✔️ [**Introduction to Social Media Marketing**](https://www.coursera.org/account/accomplishments/records/XZRKP5SGBRRS) *(Meta – Coursera)*  
 ✔️ [**Professional Skills for International Business**](https://www.coursera.org/account/accomplishments/records/ZZN9M33T7XDU) *(University of London – Coursera)*  
@@ -26,8 +30,12 @@ Welcome to my **Certifications Portfolio**! Here, you’ll find a collection of 
 ✔️ [**Programming for Everybody (Python)**](https://www.coursera.org/account/accomplishments/records/ZTW7RR53AHKQ) *(University of Michigan – Coursera)*  
 ✔️ [**Artificial Intelligence in Marketing**](https://www.coursera.org/account/accomplishments/records/WLMHDHMWFM4Y) *(University of Virginia – Coursera)*  
 ✔️ [**How to Write and Publish a Scientific Paper**](https://www.coursera.org/account/accomplishments/records/BZYCXN3R53EB) *(École Polytechnique – Coursera)*  
-✔️[**Spezialisierung Arizona State University TESOL**](https://www.coursera.org/account/accomplishments/specialization/MJRTEL6NXDRJ) *(Arizona State University – Coursera)<br>
+✔️[**Spezialisierung Arizona State University TESOL**](https://www.coursera.org/account/accomplishments/specialization/MJRTEL6NXDRJ) *(Arizona State University – Coursera)
+✔️[**Spezialisierung Arizona State University TESOL**](https://drive.google.com/file/d/1-CMjB808TFumIFbQF6zdA_weacIug2fM/view?usp=sharing) *(Arizona State University )
+✔️[**Business models in strategic management**](https://drive.google.com/file/d/1CuYRiynkyNfA40dU8-C3xqKL1Vf1WJYf/view?usp=sharing) *(openlearn)
+<br>
 ✔️[**Photography Basics and Beyond: From Smartphone to DSLR Specialization**](https://www.coursera.org/account/accomplishments/specialization/VZGPTUMHH65P) *(Michigan State University – Coursera)*  
+✔️[**From the ground Up: Local Solutions to Drive Global Impact**](https://drive.google.com/file/d/18dgUP7lnRbijUkhbj6mtVgcztuEWyauJ/view?usp=sharing) *(Participated in the 2023 Worrld Bank Group Youth Summit)*  
 ⏳ [**CS50W - Web Development with Django & JavaScript**](https://cs50.harvard.edu/certificates/) *(Harvard)*  
 ⏳ [**CS50 AI - Introduction to Artificial Intelligence with Python**](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) *(Harvard)*  
 ⏳ [**CS50 SQL - Introduction to Databases with SQL**](https://pll.harvard.edu/course/cs50s-introduction-databases-sql) *(Harvard)*  
