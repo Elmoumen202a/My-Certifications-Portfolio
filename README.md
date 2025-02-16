@@ -1,6 +1,6 @@
 # 🏆 **My Certifications Portfolio**  
 
-Welcome to my **Certifications Portfolio**! Here, you’ll find a collection of my **verified online certificates** in various domains, including **IT, programming, languages, and more**. These certifications demonstrate my **skills, dedication, and continuous learning** in my professional journey.  
+Welcome to my **Certifications Portfolio**! Here, you’ll find a collection of my **verified online certificates** in various domains, including **IT, programming, languages, and more**. These certifications demonstrate my **skills, dedication, and continuous learning** in my professional journey. 
 
 ---  
 
